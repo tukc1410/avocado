@@ -6,7 +6,8 @@ sklearn
 xgboost
 pmdarima
 numpy
-streamlit==0.82.0
-pystan==2.19.1.1
-plotly==4.14.3
+streamlit
+statsmodels
+wheel==0.24.0
+pystan
 fbprophet==0.7.1
