@@ -1,4 +1,3 @@
-streamlit
 pandas
 matplotlib
 scipy
@@ -6,6 +5,8 @@ seaborn
 sklearn
 xgboost
 pmdarima
-wheel==0.24.0
-pystan
-fbprophet
+numpy
+streamlit==0.82.0
+pystan==2.19.1.1
+plotly==4.14.3
+fbprophet==0.7.1
