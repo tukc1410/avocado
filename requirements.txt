@@ -1,13 +1,14 @@
+streamlit
 pandas
+# numpy
+datetime
 matplotlib
 scipy
 seaborn
 sklearn
 xgboost
-pmdarima
-numpy
-streamlit
 statsmodels
-wheel==0.24.0
-pystan
-fbprophet==0.7.1
+wheel   ##==0.24.0##
+pystan==2.19.1.1
+fbprophet
+# holidays
