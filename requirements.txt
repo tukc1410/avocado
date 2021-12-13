@@ -1,6 +1,5 @@
 streamlit
 pandas
-numpy
 matplotlib
 scipy
 seaborn
@@ -8,5 +7,5 @@ sklearn
 xgboost
 pmdarima
 wheel==0.24.0
-pystan==2.19.1.1
+pystan
 fbprophet
